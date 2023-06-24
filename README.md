@@ -1,4 +1,4 @@
-## Openpose Editor
+## Openpose Editor2
 
 日本語 | [English](README.en.md) | [简体中文](README.zh-cn.md)
 
